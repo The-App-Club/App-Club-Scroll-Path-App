@@ -1,0 +1,4 @@
+- Reference
+  - [lenis](https://github.com/studio-freight/lenis)
+  - [OnScrollPathAnimations](https://github.com/codrops/OnScrollPathAnimations)
+  - [how-to-animate-svg-shapes-on-scroll](https://tympanus.net/codrops/2022/06/08/how-to-animate-svg-shapes-on-scroll/)
